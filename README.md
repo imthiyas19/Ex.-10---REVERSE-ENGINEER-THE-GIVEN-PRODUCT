@@ -32,11 +32,19 @@
 
 ## Input:
 
+
+![10 1](https://github.com/imthiyas19/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/120353416/ed31fd38-86b0-40a6-a6fb-b89d23bd323d)
+
+
 ### Output:
 
 
-### Name:
-### Register Number:
+![10 2](https://github.com/imthiyas19/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/120353416/5b85101a-1918-46e0-92dd-8f0e5a48dbbc)
+
+
+
+### Name:MOHAMMED IMTHIYAS.M
+### Register Number:212222230083
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
