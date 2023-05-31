@@ -33,13 +33,18 @@
 ## Input:
 
 
-![10 1](https://github.com/imthiyas19/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/120353416/ed31fd38-86b0-40a6-a6fb-b89d23bd323d)
+![10 1](https://github.com/imthiyas19/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/120353416/ca7ea2f6-5609-4929-8e76-20f1b8d9dca7)
 
 
 ### Output:
 
 
-![10 2](https://github.com/imthiyas19/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/120353416/5b85101a-1918-46e0-92dd-8f0e5a48dbbc)
+
+![10 2](https://github.com/imthiyas19/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/120353416/3fc6a2bc-a526-4dfc-9cf6-5880d5c718ed)
+
+
+
+![10 3](https://github.com/imthiyas19/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/120353416/24223f64-c185-4013-9f77-c7a180bdd491)
 
 
 
